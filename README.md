@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/sathish61122/Leet-code-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/sathish61122/Leet-code-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/sathish61122/Leet-code-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
