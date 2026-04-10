@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/sathish61122/Leet-code-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sathish61122/Leet-code-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/sathish61122/Leet-code-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
