@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
+| [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
 |  |
 | ------- |
