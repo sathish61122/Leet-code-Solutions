@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0867-transpose-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -193,4 +198,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
