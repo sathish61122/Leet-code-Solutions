@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
