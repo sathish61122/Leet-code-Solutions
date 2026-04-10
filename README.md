@@ -69,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
