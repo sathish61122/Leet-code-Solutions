@@ -3,8 +3,7 @@ class Solution {
          int m = s.length(), n = p.length();
         boolean[][] dp = new boolean[m + 1][n + 1];
 
-        dp[0][0] = true; // empty string matches empty pattern
-
+        dp[0][0] = true;
         // Handle patterns like a*, a*b*, a*b*c* at the start
         for (int j = 2; j <= n; j += 2) {
             if (p.charAt(j - 1) == '*' && dp[0][j - 2]) {
