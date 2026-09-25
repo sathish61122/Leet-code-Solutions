@@ -8,4 +8,6 @@ class Solution {
             int rem=x%10;
             rev=rev*10+rem;
             x/=10;}
-        return originalnumber==rev;}}
+        return originalnumber==rev;
+    }
+}
