@@ -11,4 +11,5 @@ class Solution {
        result[i]=count; 
     }
     return result;
-}}
+}
+}
