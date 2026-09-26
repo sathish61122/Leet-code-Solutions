@@ -17,8 +17,6 @@ class Solution {
             curr = curr.next;
             count++;
         }
-
-        // 2. If we have k nodes, reverse them
         if (count == k) {
             ListNode prev = null;
             ListNode current = head;
