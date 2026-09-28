@@ -6,7 +6,7 @@ class Solution {
         return new int[]{i,j};
         }
         }
-        }ffdv
+        }
     return new int[]{-1,-1};
 }
 }
