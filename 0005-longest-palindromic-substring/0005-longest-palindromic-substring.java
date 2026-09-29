@@ -7,7 +7,7 @@ class Solution {
             int len2 = expandFromCenter(s, i, i + 1);   
             int len = Math.max(len1, len2);
             if (len > end - start) {
-                start = i - (len - 1) / 2
+                start = i - (len - 1) / 2;
                 end = i + len / 2;}}
         return s.substring(start, end + 1);}
     private int expandFromCenter(String s, int left, int right) {
