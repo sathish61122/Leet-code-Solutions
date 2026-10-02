@@ -9,7 +9,6 @@ class Solution {
             if (len > end - start) {
                 start = i - (len - 1) / 2;
                 end = i + len / 2;}}
-        
         return s.substring(start, end + 1);}
 private int expandFromCenter(String s, int left, int right) {
         while (left >= 0 && right < s.length() &&
