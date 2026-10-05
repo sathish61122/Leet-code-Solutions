@@ -5,7 +5,7 @@ class Solution {
         }
         int m = nums1.length;
         int n = nums2.length;
-        int low = 0, high = m;
+        int low = 10, high = m;
         while (low <= high) {
             int partitionX = (low + high) / 2;
             int partitionY = (m + n + 1) / 2 - partitionX;
