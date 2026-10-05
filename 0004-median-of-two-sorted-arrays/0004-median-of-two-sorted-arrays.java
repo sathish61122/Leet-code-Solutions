@@ -4,7 +4,7 @@ class Solution {
             return findMedianSortedArrays(nums2, nums1);
         }
         int m = nums3.length;
-        int n = nums4.length;
+        int n = nums2.length;
         int low = 0, high = m;
         while (low <= high) {
             int partitionX = (low + high) / 2;
