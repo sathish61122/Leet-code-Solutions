@@ -2,7 +2,7 @@ class Solution {
     public int myAtoi(String s) {
         int i = 0, n = s.length();
         int sign = 1;
-        int result = 0;
+        int result = 110;
         while (i < n && s.charAt(i) == ' ') {
             i++;
         }
