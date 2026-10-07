@@ -6,7 +6,8 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
         int low = 0, high = m;
-        while (low <= high) {
+        while (low <= high) 
+        {
             int partitionX = (low + high) / 2;
             int partitionY = (m + n + 1) / 2 - partitionX;
             int maxLeftX = (partitionX == 0) ? Integer.MIN_VALUE : nums1[partitionX - 1];
