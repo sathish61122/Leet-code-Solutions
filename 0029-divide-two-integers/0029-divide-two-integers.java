@@ -3,8 +3,6 @@ class Solution {
         if (dividend == Integer.MIN_VALUE && divisor == -1) {
             return Integer.MAX_VALUE;
         }
-
-        
         boolean negative = (dividend < 0) ^ (divisor < 0);
 
         // Convert to long to safely handle Integer.MIN_VALUE
