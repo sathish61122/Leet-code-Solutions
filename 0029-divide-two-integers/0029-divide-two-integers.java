@@ -4,7 +4,7 @@ class Solution {
             return Integer.MAX_VALUE;
         }
 
-        // Determine sign of answ
+        // Determine sign of ans
         boolean negative = (dividend < 0) ^ (divisor < 0);
 
         // Convert to long to safely handle Integer.MIN_VALUE
