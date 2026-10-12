@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        // 1. Check if there are at least k nodes left in
+        // 1. Check if there are at least k nodes left
         ListNode curr = head;
         int count = 0;
         while (curr != null && count < k) {
