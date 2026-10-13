@@ -15,7 +15,7 @@ class Solution {
             int maxLeftY = (partitionY == 0) ? Integer.MIN_VALUE : nums2[partitionY - 1];
             int minRightY = (partitionY == n) ? Integer.MAX_VALUE : nums2[partitionY];
             if (maxLeftX <= minRightY && maxLeftY <= minRightX) {
-                /
+            
                 if ((m + n) % 2 == 0) {
                     return (Math.max(maxLeftX, maxLeftY) + 
                             Math.min(minRightX, minRightY)) / 2.0;
