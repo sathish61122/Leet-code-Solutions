@@ -6,7 +6,7 @@ class Solution {
             int pop = x % 10;
             x /= 10;
 
-            // Chec
+            // Che
             if (rev > Integer.MAX_VALUE / 10 || 
                (rev == Integer.MAX_VALUE / 10 && pop > 7)) {
                 return 0;
