@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0088-merge-sorted-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
 ## Stack
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0867-transpose-matrix) |
@@ -254,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
