@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0088-merge-sorted-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
