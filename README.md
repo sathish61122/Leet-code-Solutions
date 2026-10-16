@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0867-transpose-matrix) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/1572-matrix-diagonal-sum) |
