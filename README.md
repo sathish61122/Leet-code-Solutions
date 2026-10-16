@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -163,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0044-wildcard-matching) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
