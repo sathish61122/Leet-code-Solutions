@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
