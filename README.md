@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0242-valid-anagram) |
