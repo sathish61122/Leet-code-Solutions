@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sathish61122/Leet-code-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
