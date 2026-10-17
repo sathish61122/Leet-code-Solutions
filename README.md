@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
