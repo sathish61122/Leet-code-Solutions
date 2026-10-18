@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sathish61122/Leet-code-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
