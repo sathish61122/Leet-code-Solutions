@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sathish61122/Leet-code-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0062-unique-paths) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
