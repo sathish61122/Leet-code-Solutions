@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sathish61122/Leet-code-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0089-gray-code) |
 ## Number Theory
 |  |
 | ------- |
