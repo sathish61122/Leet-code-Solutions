@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0242-valid-anagram) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
