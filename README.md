@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/sathish61122/Leet-code-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
 |  |
@@ -411,8 +412,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
