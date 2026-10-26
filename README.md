@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0126-word-ladder-ii) |
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0126-word-ladder-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0344-reverse-string) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0126-word-ladder-ii) |
 ## Stack
 |  |
 | ------- |
@@ -541,8 +544,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0126-word-ladder-ii) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
