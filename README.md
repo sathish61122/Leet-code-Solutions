@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
