@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -633,4 +635,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
