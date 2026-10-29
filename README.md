@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
