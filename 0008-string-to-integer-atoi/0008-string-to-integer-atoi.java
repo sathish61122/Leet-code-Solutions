@@ -6,7 +6,7 @@ class Solution {
         while (i < n && s.charAt(i) == ' ') {
             i++;
         }
-        // 2. Check s
+        // 2. Check
         if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
             sign = (s.charAt(i) == '-') ? -1 : 1;
             i++;
