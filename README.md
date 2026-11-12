@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sathish61122/Leet-code-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathish61122/Leet-code-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
